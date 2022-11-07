@@ -1,0 +1,17 @@
+C:\azure\Sistema Colegio\Data\bin\Release\net6.0\Data.deps.json
+C:\azure\Sistema Colegio\Data\bin\Release\net6.0\Data.runtimeconfig.json
+C:\azure\Sistema Colegio\Data\bin\Release\net6.0\Data.dll
+C:\azure\Sistema Colegio\Data\bin\Release\net6.0\Data.pdb
+C:\azure\Sistema Colegio\Data\bin\Release\net6.0\ENTIDADES.dll
+C:\azure\Sistema Colegio\Data\bin\Release\net6.0\ENTIDADES.pdb
+C:\azure\Sistema Colegio\Data\obj\Release\net6.0\Data.csproj.AssemblyReference.cache
+C:\azure\Sistema Colegio\Data\obj\Release\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\azure\Sistema Colegio\Data\obj\Release\net6.0\Data.AssemblyInfoInputs.cache
+C:\azure\Sistema Colegio\Data\obj\Release\net6.0\Data.AssemblyInfo.cs
+C:\azure\Sistema Colegio\Data\obj\Release\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\azure\Sistema Colegio\Data\obj\Release\net6.0\Data.csproj.CopyComplete
+C:\azure\Sistema Colegio\Data\obj\Release\net6.0\Data.dll
+C:\azure\Sistema Colegio\Data\obj\Release\net6.0\refint\Data.dll
+C:\azure\Sistema Colegio\Data\obj\Release\net6.0\Data.pdb
+C:\azure\Sistema Colegio\Data\obj\Release\net6.0\Data.genruntimeconfig.cache
+C:\azure\Sistema Colegio\Data\obj\Release\net6.0\ref\Data.dll

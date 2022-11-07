@@ -1,0 +1,17 @@
+C:\azure\Sistema Colegio\Escritorio\bin\Release\net6.0-windows\Escritorio.exe
+C:\azure\Sistema Colegio\Escritorio\bin\Release\net6.0-windows\Escritorio.deps.json
+C:\azure\Sistema Colegio\Escritorio\bin\Release\net6.0-windows\Escritorio.runtimeconfig.json
+C:\azure\Sistema Colegio\Escritorio\bin\Release\net6.0-windows\Escritorio.dll
+C:\azure\Sistema Colegio\Escritorio\bin\Release\net6.0-windows\Escritorio.pdb
+C:\azure\Sistema Colegio\Escritorio\obj\Release\net6.0-windows\Escritorio.csproj.AssemblyReference.cache
+C:\azure\Sistema Colegio\Escritorio\obj\Release\net6.0-windows\Escritorio.Form1.resources
+C:\azure\Sistema Colegio\Escritorio\obj\Release\net6.0-windows\Escritorio.csproj.GenerateResource.cache
+C:\azure\Sistema Colegio\Escritorio\obj\Release\net6.0-windows\Escritorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\azure\Sistema Colegio\Escritorio\obj\Release\net6.0-windows\Escritorio.AssemblyInfoInputs.cache
+C:\azure\Sistema Colegio\Escritorio\obj\Release\net6.0-windows\Escritorio.AssemblyInfo.cs
+C:\azure\Sistema Colegio\Escritorio\obj\Release\net6.0-windows\Escritorio.csproj.CoreCompileInputs.cache
+C:\azure\Sistema Colegio\Escritorio\obj\Release\net6.0-windows\Escritorio.dll
+C:\azure\Sistema Colegio\Escritorio\obj\Release\net6.0-windows\refint\Escritorio.dll
+C:\azure\Sistema Colegio\Escritorio\obj\Release\net6.0-windows\Escritorio.pdb
+C:\azure\Sistema Colegio\Escritorio\obj\Release\net6.0-windows\Escritorio.genruntimeconfig.cache
+C:\azure\Sistema Colegio\Escritorio\obj\Release\net6.0-windows\ref\Escritorio.dll

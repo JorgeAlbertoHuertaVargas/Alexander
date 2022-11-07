@@ -1,0 +1,17 @@
+C:\azure\Sistema Colegio\LOGICA\bin\Release\net6.0\LOGICA.deps.json
+C:\azure\Sistema Colegio\LOGICA\bin\Release\net6.0\LOGICA.dll
+C:\azure\Sistema Colegio\LOGICA\bin\Release\net6.0\LOGICA.pdb
+C:\azure\Sistema Colegio\LOGICA\bin\Release\net6.0\Data.dll
+C:\azure\Sistema Colegio\LOGICA\bin\Release\net6.0\ENTIDADES.dll
+C:\azure\Sistema Colegio\LOGICA\bin\Release\net6.0\Data.pdb
+C:\azure\Sistema Colegio\LOGICA\bin\Release\net6.0\ENTIDADES.pdb
+C:\azure\Sistema Colegio\LOGICA\obj\Release\net6.0\LOGICA.csproj.AssemblyReference.cache
+C:\azure\Sistema Colegio\LOGICA\obj\Release\net6.0\LOGICA.GeneratedMSBuildEditorConfig.editorconfig
+C:\azure\Sistema Colegio\LOGICA\obj\Release\net6.0\LOGICA.AssemblyInfoInputs.cache
+C:\azure\Sistema Colegio\LOGICA\obj\Release\net6.0\LOGICA.AssemblyInfo.cs
+C:\azure\Sistema Colegio\LOGICA\obj\Release\net6.0\LOGICA.csproj.CoreCompileInputs.cache
+C:\azure\Sistema Colegio\LOGICA\obj\Release\net6.0\LOGICA.csproj.CopyComplete
+C:\azure\Sistema Colegio\LOGICA\obj\Release\net6.0\LOGICA.dll
+C:\azure\Sistema Colegio\LOGICA\obj\Release\net6.0\refint\LOGICA.dll
+C:\azure\Sistema Colegio\LOGICA\obj\Release\net6.0\LOGICA.pdb
+C:\azure\Sistema Colegio\LOGICA\obj\Release\net6.0\ref\LOGICA.dll

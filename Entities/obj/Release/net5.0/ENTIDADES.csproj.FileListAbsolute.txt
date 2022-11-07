@@ -1,0 +1,12 @@
+C:\azure\Sistema Colegio\Entities\bin\Release\net5.0\ENTIDADES.deps.json
+C:\azure\Sistema Colegio\Entities\bin\Release\net5.0\ENTIDADES.dll
+C:\azure\Sistema Colegio\Entities\bin\Release\net5.0\ENTIDADES.pdb
+C:\azure\Sistema Colegio\Entities\obj\Release\net5.0\ENTIDADES.csproj.AssemblyReference.cache
+C:\azure\Sistema Colegio\Entities\obj\Release\net5.0\ENTIDADES.GeneratedMSBuildEditorConfig.editorconfig
+C:\azure\Sistema Colegio\Entities\obj\Release\net5.0\ENTIDADES.AssemblyInfoInputs.cache
+C:\azure\Sistema Colegio\Entities\obj\Release\net5.0\ENTIDADES.AssemblyInfo.cs
+C:\azure\Sistema Colegio\Entities\obj\Release\net5.0\ENTIDADES.csproj.CoreCompileInputs.cache
+C:\azure\Sistema Colegio\Entities\obj\Release\net5.0\ENTIDADES.dll
+C:\azure\Sistema Colegio\Entities\obj\Release\net5.0\refint\ENTIDADES.dll
+C:\azure\Sistema Colegio\Entities\obj\Release\net5.0\ENTIDADES.pdb
+C:\azure\Sistema Colegio\Entities\obj\Release\net5.0\ref\ENTIDADES.dll

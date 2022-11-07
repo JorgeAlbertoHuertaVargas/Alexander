@@ -1,0 +1,51 @@
+C:\Users\HP\Desktop\Nueva carpeta (4)\Nueva carpeta (3)\LOGICA\bin\Debug\net6.0\LOGICA.deps.json
+C:\Users\HP\Desktop\Nueva carpeta (4)\Nueva carpeta (3)\LOGICA\bin\Debug\net6.0\LOGICA.dll
+C:\Users\HP\Desktop\Nueva carpeta (4)\Nueva carpeta (3)\LOGICA\bin\Debug\net6.0\LOGICA.pdb
+C:\Users\HP\Desktop\Nueva carpeta (4)\Nueva carpeta (3)\LOGICA\bin\Debug\net6.0\Data.dll
+C:\Users\HP\Desktop\Nueva carpeta (4)\Nueva carpeta (3)\LOGICA\bin\Debug\net6.0\ENTIDADES.dll
+C:\Users\HP\Desktop\Nueva carpeta (4)\Nueva carpeta (3)\LOGICA\bin\Debug\net6.0\Data.pdb
+C:\Users\HP\Desktop\Nueva carpeta (4)\Nueva carpeta (3)\LOGICA\bin\Debug\net6.0\ENTIDADES.pdb
+C:\Users\HP\Desktop\Nueva carpeta (4)\Nueva carpeta (3)\LOGICA\obj\Debug\net6.0\LOGICA.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Nueva carpeta (4)\Nueva carpeta (3)\LOGICA\obj\Debug\net6.0\LOGICA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Nueva carpeta (4)\Nueva carpeta (3)\LOGICA\obj\Debug\net6.0\LOGICA.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Nueva carpeta (4)\Nueva carpeta (3)\LOGICA\obj\Debug\net6.0\LOGICA.AssemblyInfo.cs
+C:\Users\HP\Desktop\Nueva carpeta (4)\Nueva carpeta (3)\LOGICA\obj\Debug\net6.0\LOGICA.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Nueva carpeta (4)\Nueva carpeta (3)\LOGICA\obj\Debug\net6.0\LOGICA.csproj.CopyComplete
+C:\Users\HP\Desktop\Nueva carpeta (4)\Nueva carpeta (3)\LOGICA\obj\Debug\net6.0\LOGICA.dll
+C:\Users\HP\Desktop\Nueva carpeta (4)\Nueva carpeta (3)\LOGICA\obj\Debug\net6.0\refint\LOGICA.dll
+C:\Users\HP\Desktop\Nueva carpeta (4)\Nueva carpeta (3)\LOGICA\obj\Debug\net6.0\LOGICA.pdb
+C:\Users\HP\Desktop\Nueva carpeta (4)\Nueva carpeta (3)\LOGICA\obj\Debug\net6.0\ref\LOGICA.dll
+C:\azure\Sistema Colegio\LOGICA\bin\Debug\net6.0\LOGICA.deps.json
+C:\azure\Sistema Colegio\LOGICA\bin\Debug\net6.0\LOGICA.dll
+C:\azure\Sistema Colegio\LOGICA\bin\Debug\net6.0\LOGICA.pdb
+C:\azure\Sistema Colegio\LOGICA\bin\Debug\net6.0\Data.dll
+C:\azure\Sistema Colegio\LOGICA\bin\Debug\net6.0\ENTIDADES.dll
+C:\azure\Sistema Colegio\LOGICA\bin\Debug\net6.0\Data.pdb
+C:\azure\Sistema Colegio\LOGICA\bin\Debug\net6.0\ENTIDADES.pdb
+C:\azure\Sistema Colegio\LOGICA\obj\Debug\net6.0\LOGICA.csproj.AssemblyReference.cache
+C:\azure\Sistema Colegio\LOGICA\obj\Debug\net6.0\LOGICA.GeneratedMSBuildEditorConfig.editorconfig
+C:\azure\Sistema Colegio\LOGICA\obj\Debug\net6.0\LOGICA.AssemblyInfoInputs.cache
+C:\azure\Sistema Colegio\LOGICA\obj\Debug\net6.0\LOGICA.AssemblyInfo.cs
+C:\azure\Sistema Colegio\LOGICA\obj\Debug\net6.0\LOGICA.csproj.CoreCompileInputs.cache
+C:\azure\Sistema Colegio\LOGICA\obj\Debug\net6.0\LOGICA.csproj.CopyComplete
+C:\azure\Sistema Colegio\LOGICA\obj\Debug\net6.0\LOGICA.dll
+C:\azure\Sistema Colegio\LOGICA\obj\Debug\net6.0\refint\LOGICA.dll
+C:\azure\Sistema Colegio\LOGICA\obj\Debug\net6.0\LOGICA.pdb
+C:\azure\Sistema Colegio\LOGICA\obj\Debug\net6.0\ref\LOGICA.dll
+C:\Users\Alberto\Source\Repos\Sistema Colegio\LOGICA\bin\Debug\net6.0\LOGICA.deps.json
+C:\Users\Alberto\Source\Repos\Sistema Colegio\LOGICA\bin\Debug\net6.0\LOGICA.dll
+C:\Users\Alberto\Source\Repos\Sistema Colegio\LOGICA\bin\Debug\net6.0\LOGICA.pdb
+C:\Users\Alberto\Source\Repos\Sistema Colegio\LOGICA\bin\Debug\net6.0\Data.dll
+C:\Users\Alberto\Source\Repos\Sistema Colegio\LOGICA\bin\Debug\net6.0\ENTIDADES.dll
+C:\Users\Alberto\Source\Repos\Sistema Colegio\LOGICA\bin\Debug\net6.0\Data.pdb
+C:\Users\Alberto\Source\Repos\Sistema Colegio\LOGICA\bin\Debug\net6.0\ENTIDADES.pdb
+C:\Users\Alberto\Source\Repos\Sistema Colegio\LOGICA\obj\Debug\net6.0\LOGICA.csproj.AssemblyReference.cache
+C:\Users\Alberto\Source\Repos\Sistema Colegio\LOGICA\obj\Debug\net6.0\LOGICA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberto\Source\Repos\Sistema Colegio\LOGICA\obj\Debug\net6.0\LOGICA.AssemblyInfoInputs.cache
+C:\Users\Alberto\Source\Repos\Sistema Colegio\LOGICA\obj\Debug\net6.0\LOGICA.AssemblyInfo.cs
+C:\Users\Alberto\Source\Repos\Sistema Colegio\LOGICA\obj\Debug\net6.0\LOGICA.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\Source\Repos\Sistema Colegio\LOGICA\obj\Debug\net6.0\LOGICA.csproj.CopyComplete
+C:\Users\Alberto\Source\Repos\Sistema Colegio\LOGICA\obj\Debug\net6.0\LOGICA.dll
+C:\Users\Alberto\Source\Repos\Sistema Colegio\LOGICA\obj\Debug\net6.0\refint\LOGICA.dll
+C:\Users\Alberto\Source\Repos\Sistema Colegio\LOGICA\obj\Debug\net6.0\LOGICA.pdb
+C:\Users\Alberto\Source\Repos\Sistema Colegio\LOGICA\obj\Debug\net6.0\ref\LOGICA.dll

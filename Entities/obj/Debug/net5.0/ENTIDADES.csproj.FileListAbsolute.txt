@@ -1,0 +1,48 @@
+C:\Users\HP\Desktop\Nueva carpeta (4)\SystemSchool\Entities\bin\Debug\net5.0\ENTIDADES.deps.json
+C:\Users\HP\Desktop\Nueva carpeta (4)\SystemSchool\Entities\bin\Debug\net5.0\ENTIDADES.dll
+C:\Users\HP\Desktop\Nueva carpeta (4)\SystemSchool\Entities\bin\Debug\net5.0\ENTIDADES.pdb
+C:\Users\HP\Desktop\Nueva carpeta (4)\SystemSchool\Entities\obj\Debug\net5.0\ENTIDADES.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Nueva carpeta (4)\SystemSchool\Entities\obj\Debug\net5.0\ENTIDADES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Nueva carpeta (4)\SystemSchool\Entities\obj\Debug\net5.0\ENTIDADES.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Nueva carpeta (4)\SystemSchool\Entities\obj\Debug\net5.0\ENTIDADES.AssemblyInfo.cs
+C:\Users\HP\Desktop\Nueva carpeta (4)\SystemSchool\Entities\obj\Debug\net5.0\ENTIDADES.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Nueva carpeta (4)\SystemSchool\Entities\obj\Debug\net5.0\ENTIDADES.dll
+C:\Users\HP\Desktop\Nueva carpeta (4)\SystemSchool\Entities\obj\Debug\net5.0\refint\ENTIDADES.dll
+C:\Users\HP\Desktop\Nueva carpeta (4)\SystemSchool\Entities\obj\Debug\net5.0\ENTIDADES.pdb
+C:\Users\HP\Desktop\Nueva carpeta (4)\SystemSchool\Entities\obj\Debug\net5.0\ref\ENTIDADES.dll
+C:\Users\HP\Desktop\Nueva carpeta (4)\Nueva carpeta (3)\Entities\bin\Debug\net5.0\ENTIDADES.deps.json
+C:\Users\HP\Desktop\Nueva carpeta (4)\Nueva carpeta (3)\Entities\bin\Debug\net5.0\ENTIDADES.dll
+C:\Users\HP\Desktop\Nueva carpeta (4)\Nueva carpeta (3)\Entities\bin\Debug\net5.0\ENTIDADES.pdb
+C:\Users\HP\Desktop\Nueva carpeta (4)\Nueva carpeta (3)\Entities\obj\Debug\net5.0\ENTIDADES.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Nueva carpeta (4)\Nueva carpeta (3)\Entities\obj\Debug\net5.0\ENTIDADES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Nueva carpeta (4)\Nueva carpeta (3)\Entities\obj\Debug\net5.0\ENTIDADES.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Nueva carpeta (4)\Nueva carpeta (3)\Entities\obj\Debug\net5.0\ENTIDADES.AssemblyInfo.cs
+C:\Users\HP\Desktop\Nueva carpeta (4)\Nueva carpeta (3)\Entities\obj\Debug\net5.0\ENTIDADES.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Nueva carpeta (4)\Nueva carpeta (3)\Entities\obj\Debug\net5.0\ENTIDADES.dll
+C:\Users\HP\Desktop\Nueva carpeta (4)\Nueva carpeta (3)\Entities\obj\Debug\net5.0\refint\ENTIDADES.dll
+C:\Users\HP\Desktop\Nueva carpeta (4)\Nueva carpeta (3)\Entities\obj\Debug\net5.0\ENTIDADES.pdb
+C:\Users\HP\Desktop\Nueva carpeta (4)\Nueva carpeta (3)\Entities\obj\Debug\net5.0\ref\ENTIDADES.dll
+C:\azure\Sistema Colegio\Entities\bin\Debug\net5.0\ENTIDADES.deps.json
+C:\azure\Sistema Colegio\Entities\bin\Debug\net5.0\ENTIDADES.dll
+C:\azure\Sistema Colegio\Entities\bin\Debug\net5.0\ENTIDADES.pdb
+C:\azure\Sistema Colegio\Entities\obj\Debug\net5.0\ENTIDADES.csproj.AssemblyReference.cache
+C:\azure\Sistema Colegio\Entities\obj\Debug\net5.0\ENTIDADES.GeneratedMSBuildEditorConfig.editorconfig
+C:\azure\Sistema Colegio\Entities\obj\Debug\net5.0\ENTIDADES.AssemblyInfoInputs.cache
+C:\azure\Sistema Colegio\Entities\obj\Debug\net5.0\ENTIDADES.AssemblyInfo.cs
+C:\azure\Sistema Colegio\Entities\obj\Debug\net5.0\ENTIDADES.csproj.CoreCompileInputs.cache
+C:\azure\Sistema Colegio\Entities\obj\Debug\net5.0\ENTIDADES.dll
+C:\azure\Sistema Colegio\Entities\obj\Debug\net5.0\refint\ENTIDADES.dll
+C:\azure\Sistema Colegio\Entities\obj\Debug\net5.0\ENTIDADES.pdb
+C:\azure\Sistema Colegio\Entities\obj\Debug\net5.0\ref\ENTIDADES.dll
+C:\Users\Alberto\Source\Repos\Sistema Colegio\Entities\bin\Debug\net5.0\ENTIDADES.deps.json
+C:\Users\Alberto\Source\Repos\Sistema Colegio\Entities\bin\Debug\net5.0\ENTIDADES.dll
+C:\Users\Alberto\Source\Repos\Sistema Colegio\Entities\bin\Debug\net5.0\ENTIDADES.pdb
+C:\Users\Alberto\Source\Repos\Sistema Colegio\Entities\obj\Debug\net5.0\ENTIDADES.csproj.AssemblyReference.cache
+C:\Users\Alberto\Source\Repos\Sistema Colegio\Entities\obj\Debug\net5.0\ENTIDADES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberto\Source\Repos\Sistema Colegio\Entities\obj\Debug\net5.0\ENTIDADES.AssemblyInfoInputs.cache
+C:\Users\Alberto\Source\Repos\Sistema Colegio\Entities\obj\Debug\net5.0\ENTIDADES.AssemblyInfo.cs
+C:\Users\Alberto\Source\Repos\Sistema Colegio\Entities\obj\Debug\net5.0\ENTIDADES.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\Source\Repos\Sistema Colegio\Entities\obj\Debug\net5.0\ENTIDADES.dll
+C:\Users\Alberto\Source\Repos\Sistema Colegio\Entities\obj\Debug\net5.0\refint\ENTIDADES.dll
+C:\Users\Alberto\Source\Repos\Sistema Colegio\Entities\obj\Debug\net5.0\ENTIDADES.pdb
+C:\Users\Alberto\Source\Repos\Sistema Colegio\Entities\obj\Debug\net5.0\ref\ENTIDADES.dll
