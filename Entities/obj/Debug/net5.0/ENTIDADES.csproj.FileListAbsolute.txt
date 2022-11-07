@@ -46,3 +46,15 @@ C:\Users\Alberto\Source\Repos\Sistema Colegio\Entities\obj\Debug\net5.0\ENTIDADE
 C:\Users\Alberto\Source\Repos\Sistema Colegio\Entities\obj\Debug\net5.0\refint\ENTIDADES.dll
 C:\Users\Alberto\Source\Repos\Sistema Colegio\Entities\obj\Debug\net5.0\ENTIDADES.pdb
 C:\Users\Alberto\Source\Repos\Sistema Colegio\Entities\obj\Debug\net5.0\ref\ENTIDADES.dll
+C:\Users\Alberto\Source\Repos\Alexander\Entities\bin\Debug\net5.0\ENTIDADES.deps.json
+C:\Users\Alberto\Source\Repos\Alexander\Entities\bin\Debug\net5.0\ENTIDADES.dll
+C:\Users\Alberto\Source\Repos\Alexander\Entities\bin\Debug\net5.0\ENTIDADES.pdb
+C:\Users\Alberto\Source\Repos\Alexander\Entities\obj\Debug\net5.0\ENTIDADES.csproj.AssemblyReference.cache
+C:\Users\Alberto\Source\Repos\Alexander\Entities\obj\Debug\net5.0\ENTIDADES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberto\Source\Repos\Alexander\Entities\obj\Debug\net5.0\ENTIDADES.AssemblyInfoInputs.cache
+C:\Users\Alberto\Source\Repos\Alexander\Entities\obj\Debug\net5.0\ENTIDADES.AssemblyInfo.cs
+C:\Users\Alberto\Source\Repos\Alexander\Entities\obj\Debug\net5.0\ENTIDADES.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\Source\Repos\Alexander\Entities\obj\Debug\net5.0\ENTIDADES.dll
+C:\Users\Alberto\Source\Repos\Alexander\Entities\obj\Debug\net5.0\refint\ENTIDADES.dll
+C:\Users\Alberto\Source\Repos\Alexander\Entities\obj\Debug\net5.0\ENTIDADES.pdb
+C:\Users\Alberto\Source\Repos\Alexander\Entities\obj\Debug\net5.0\ref\ENTIDADES.dll

@@ -2147,11 +2147,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\LOGICA\\LOGICA.csproj",
+      "projectUniqueName": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\LOGICA\\LOGICA.csproj",
       "projectName": "LOGICA",
-      "projectPath": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\LOGICA\\LOGICA.csproj",
+      "projectPath": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\LOGICA\\LOGICA.csproj",
       "packagesPath": "C:\\Users\\Alberto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\LOGICA\\obj\\",
+      "outputPath": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\LOGICA\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2172,11 +2172,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\Data\\Data.csproj"
+            "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\Data\\Data.csproj"
             },
-            "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\Entities\\ENTIDADES.csproj": {
-              "projectPath": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\Entities\\ENTIDADES.csproj"
+            "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\Entities\\ENTIDADES.csproj": {
+              "projectPath": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\Entities\\ENTIDADES.csproj"
             }
           }
         }

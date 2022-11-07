@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace LOGICA.CourseLogic
 {
-    public class CourseLogic
+    public class CourseLogic : ICourseLogic
     {
         CourseFuctions CapadeDatosCurso = new CourseFuctions();
 
@@ -112,6 +112,5 @@ namespace LOGICA.CourseLogic
                 throw new Exception("Failed to Actualizar data.", ex);
             }
         }
-        
     }
 }

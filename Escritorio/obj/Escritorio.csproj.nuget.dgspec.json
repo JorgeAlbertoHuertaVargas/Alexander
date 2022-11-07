@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\Escritorio\\Escritorio.csproj": {}
+    "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\Escritorio\\Escritorio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\Escritorio\\Escritorio.csproj": {
+    "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\Escritorio\\Escritorio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\Escritorio\\Escritorio.csproj",
+        "projectUniqueName": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\Escritorio\\Escritorio.csproj",
         "projectName": "Escritorio",
-        "projectPath": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\Escritorio\\Escritorio.csproj",
+        "projectPath": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\Escritorio\\Escritorio.csproj",
         "packagesPath": "C:\\Users\\Alberto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\Escritorio\\obj\\",
+        "outputPath": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\Escritorio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -49,3 +49,20 @@ C:\Users\Alberto\Source\Repos\Sistema Colegio\LOGICA\obj\Debug\net6.0\LOGICA.dll
 C:\Users\Alberto\Source\Repos\Sistema Colegio\LOGICA\obj\Debug\net6.0\refint\LOGICA.dll
 C:\Users\Alberto\Source\Repos\Sistema Colegio\LOGICA\obj\Debug\net6.0\LOGICA.pdb
 C:\Users\Alberto\Source\Repos\Sistema Colegio\LOGICA\obj\Debug\net6.0\ref\LOGICA.dll
+C:\Users\Alberto\Source\Repos\Alexander\LOGICA\bin\Debug\net6.0\LOGICA.deps.json
+C:\Users\Alberto\Source\Repos\Alexander\LOGICA\bin\Debug\net6.0\LOGICA.dll
+C:\Users\Alberto\Source\Repos\Alexander\LOGICA\bin\Debug\net6.0\LOGICA.pdb
+C:\Users\Alberto\Source\Repos\Alexander\LOGICA\bin\Debug\net6.0\Data.dll
+C:\Users\Alberto\Source\Repos\Alexander\LOGICA\bin\Debug\net6.0\ENTIDADES.dll
+C:\Users\Alberto\Source\Repos\Alexander\LOGICA\bin\Debug\net6.0\Data.pdb
+C:\Users\Alberto\Source\Repos\Alexander\LOGICA\bin\Debug\net6.0\ENTIDADES.pdb
+C:\Users\Alberto\Source\Repos\Alexander\LOGICA\obj\Debug\net6.0\LOGICA.csproj.AssemblyReference.cache
+C:\Users\Alberto\Source\Repos\Alexander\LOGICA\obj\Debug\net6.0\LOGICA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberto\Source\Repos\Alexander\LOGICA\obj\Debug\net6.0\LOGICA.AssemblyInfoInputs.cache
+C:\Users\Alberto\Source\Repos\Alexander\LOGICA\obj\Debug\net6.0\LOGICA.AssemblyInfo.cs
+C:\Users\Alberto\Source\Repos\Alexander\LOGICA\obj\Debug\net6.0\LOGICA.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\Source\Repos\Alexander\LOGICA\obj\Debug\net6.0\LOGICA.csproj.CopyComplete
+C:\Users\Alberto\Source\Repos\Alexander\LOGICA\obj\Debug\net6.0\LOGICA.dll
+C:\Users\Alberto\Source\Repos\Alexander\LOGICA\obj\Debug\net6.0\refint\LOGICA.dll
+C:\Users\Alberto\Source\Repos\Alexander\LOGICA\obj\Debug\net6.0\LOGICA.pdb
+C:\Users\Alberto\Source\Repos\Alexander\LOGICA\obj\Debug\net6.0\ref\LOGICA.dll

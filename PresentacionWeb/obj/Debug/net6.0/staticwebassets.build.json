@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tsGgDRIG5CiF9krvlxZw1d7qRXm8LCSd+8MVtewKABU=",
+  "Hash": "GR7nlLbrJ/ytMjcPkm3qrdC/QsNZmosSV8b3m7HBack=",
   "Source": "PresentacionWeb",
   "BasePath": "_content/PresentacionWeb",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "PresentacionWeb\\wwwroot",
       "Source": "PresentacionWeb",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PresentacionWeb.styles.css",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PresentacionWeb.styles.css",
       "SourceId": "PresentacionWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "PresentacionWeb.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PresentacionWeb.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PresentacionWeb.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PresentacionWeb.bundle.scp.css",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PresentacionWeb.bundle.scp.css",
       "SourceId": "PresentacionWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "PresentacionWeb.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PresentacionWeb.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PresentacionWeb.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\css\\layets.css",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\css\\layets.css",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "css/layets.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\layets.css"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\css\\Login\\plantilla.css",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\css\\Login\\plantilla.css",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "css/Login/plantilla.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Login\\plantilla.css"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\css\\LoginCss.css",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\css\\LoginCss.css",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "css/LoginCss.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\LoginCss.css"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\css\\responsive.bootstrap.min.css",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\css\\responsive.bootstrap.min.css",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "css/responsive.bootstrap.min.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\responsive.bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\css\\sass.css",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\css\\sass.css",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "css/sass.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\sass.css"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\css\\site.css",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\css\\style.css",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\css\\styleBienvenida.css",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\css\\styleBienvenida.css",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "css/styleBienvenida.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\styleBienvenida.css"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\favicon.ico",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\Img\\abc.gif",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\Img\\abc.gif",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "Img/abc.gif",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\abc.gif"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\Img\\bell.svg",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\Img\\bell.svg",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "Img/bell.svg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\bell.svg"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\Img\\crown.svg",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\Img\\crown.svg",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "Img/crown.svg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\crown.svg"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\Img\\database.svg",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\Img\\database.svg",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "Img/database.svg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\database.svg"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\Img\\envelope.svg",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\Img\\envelope.svg",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "Img/envelope.svg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\envelope.svg"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\Img\\error.svg",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\Img\\error.svg",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "Img/error.svg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\error.svg"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\Img\\fondo.jpg",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\Img\\fondo.jpg",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "Img/fondo.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\fondo.jpg"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\Img\\fondo1.jpg",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\Img\\fondo1.jpg",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "Img/fondo1.jpg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\fondo1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\Img\\fondo2.jpg",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\Img\\fondo2.jpg",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "Img/fondo2.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\fondo2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\Img\\fondo4.jpg",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\Img\\fondo4.jpg",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "Img/fondo4.jpg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\fondo4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\Img\\fondo7.jpg",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\Img\\fondo7.jpg",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "Img/fondo7.jpg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\fondo7.jpg"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\Img\\gear-option.svg",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\Img\\gear-option.svg",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "Img/gear-option.svg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\gear-option.svg"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\Img\\heart.svg",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\Img\\heart.svg",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "Img/heart.svg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\heart.svg"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\Img\\imagen.gif",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\Img\\imagen.gif",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "Img/imagen.gif",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\imagen.gif"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\Img\\images.png",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\Img\\images.png",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "Img/images.png",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\images.png"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\Img\\img.jpg",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\Img\\img.jpg",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "Img/img.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\img.jpg"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\Img\\loader.gif",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\Img\\loader.gif",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "Img/loader.gif",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\loader.gif"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\Img\\Loading_2.gif",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\Img\\Loading_2.gif",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "Img/Loading_2.gif",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\Loading_2.gif"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\Img\\Login\\Fondo.jpg",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\Img\\Login\\Fondo.jpg",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "Img/Login/Fondo.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\Login\\Fondo.jpg"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\Img\\note.svg",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\Img\\note.svg",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "Img/note.svg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\note.svg"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\Img\\profile.svg",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\Img\\profile.svg",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "Img/profile.svg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\profile.svg"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\Img\\server.svg",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\Img\\server.svg",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "Img/server.svg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\server.svg"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\Img\\settings.svg",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\Img\\settings.svg",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "Img/settings.svg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\settings.svg"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\Img\\undraw_posting_photo.svg",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\Img\\undraw_posting_photo.svg",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "Img/undraw_posting_photo.svg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\undraw_posting_photo.svg"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\Img\\undraw_profile.svg",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\Img\\undraw_profile.svg",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "Img/undraw_profile.svg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\undraw_profile.svg"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\Img\\user-1.jpeg",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\Img\\user-1.jpeg",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "Img/user-1.jpeg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\user-1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\Img\\user-2.jpg",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\Img\\user-2.jpg",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "Img/user-2.jpg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\user-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\Img\\user-3.png",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\Img\\user-3.png",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "Img/user-3.png",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\user-3.png"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\Img\\user-4.png",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\Img\\user-4.png",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "Img/user-4.png",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\user-4.png"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\Img\\user-5.jpg",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\Img\\user-5.jpg",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "Img/user-5.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\user-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\js\\Alumno.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\js\\Alumno.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "js/Alumno.js",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Alumno.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\js\\ApiScript.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\js\\ApiScript.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "js/ApiScript.js",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\js\\ApiScript.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\js\\BienvenidaScript.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\js\\BienvenidaScript.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "js/BienvenidaScript.js",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\js\\BienvenidaScript.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\js\\bootstrap\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\js\\bootstrap\\bootstrap.bundle.min.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "js/bootstrap/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\js\\Calendario.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\js\\Calendario.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "js/Calendario.js",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Calendario.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\js\\CourseScript.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\js\\CourseScript.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "js/CourseScript.js",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\js\\CourseScript.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\js\\DataTable.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\js\\DataTable.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "js/DataTable.js",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\js\\DataTable.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\js\\dataTables.responsive.min.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\js\\dataTables.responsive.min.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "js/dataTables.responsive.min.js",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\js\\dataTables.responsive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\js\\DegreeScript.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\js\\DegreeScript.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "js/DegreeScript.js",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\js\\DegreeScript.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\js\\jquery.min.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\js\\jquery.min.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "js/jquery.min.js",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\js\\Level.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\js\\Level.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "js/Level.js",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Level.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\js\\LevelDegreeCourseSection.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\js\\LevelDegreeCourseSection.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "js/LevelDegreeCourseSection.js",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\js\\LevelDegreeCourseSection.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\js\\main.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\js\\main.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\js\\ParemetScript.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\js\\ParemetScript.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "js/ParemetScript.js",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\js\\ParemetScript.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\js\\RetirarAlumno.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\js\\RetirarAlumno.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "js/RetirarAlumno.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\js\\RetirarAlumno.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\js\\SectionScrip.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\js\\SectionScrip.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "js/SectionScrip.js",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\js\\SectionScrip.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\js\\SetingScript.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\js\\SetingScript.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "js/SetingScript.js",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\js\\SetingScript.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\js\\site.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\js\\sweetalert2\\sweetalert2.all.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\js\\sweetalert2\\sweetalert2.all.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "js/sweetalert2/sweetalert2.all.js",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\js\\sweetalert2\\sweetalert2.all.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\js\\sweetalert2\\sweetalert2.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\js\\sweetalert2\\sweetalert2.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "js/sweetalert2/sweetalert2.js",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\js\\sweetalert2\\sweetalert2.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\js\\TeacherScript.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\js\\TeacherScript.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "js/TeacherScript.js",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\js\\TeacherScript.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\js\\Ubicacion.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\js\\Ubicacion.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "js/Ubicacion.js",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Ubicacion.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\js\\UserScript.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\js\\UserScript.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "js/UserScript.js",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\js\\UserScript.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\js\\usuario.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\js\\usuario.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "js/usuario.js",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\js\\usuario.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\limonte-sweetalert2\\sweetalert2.min.css",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\limonte-sweetalert2\\sweetalert2.min.css",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/limonte-sweetalert2/sweetalert2.min.css",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\limonte-sweetalert2\\sweetalert2.min.css"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\limonte-sweetalert2\\sweetalert2.min.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\limonte-sweetalert2\\sweetalert2.min.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/limonte-sweetalert2/sweetalert2.min.js",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\limonte-sweetalert2\\sweetalert2.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\select2\\select2.min.css",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\select2\\select2.min.css",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/select2/select2.min.css",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\select2\\select2.min.css"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\select2\\select2.min.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\select2\\select2.min.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/select2/select2.min.js",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\select2\\select2.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\lib\\sweetalert2\\sweetalert2.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\lib\\sweetalert2\\sweetalert2.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "lib/sweetalert2/sweetalert2.js",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\sweetalert2\\sweetalert2.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\plugins\\css\\main.css",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\plugins\\css\\main.css",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "plugins/css/main.css",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\css\\main.css"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\plugins\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\plugins\\js\\bootstrap.min.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "plugins/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\plugins\\js\\jquery-3.3.1.min.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\plugins\\js\\jquery-3.3.1.min.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "plugins/js/jquery-3.3.1.min.js",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\js\\jquery-3.3.1.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\plugins\\js\\main.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\plugins\\js\\main.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "plugins/js/main.js",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\plugins\\js\\plugins\\bootstrap-datepicker.min.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\plugins\\js\\plugins\\bootstrap-datepicker.min.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "plugins/js/plugins/bootstrap-datepicker.min.js",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\js\\plugins\\bootstrap-datepicker.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\plugins\\js\\plugins\\bootstrap-notify.min.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\plugins\\js\\plugins\\bootstrap-notify.min.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "plugins/js/plugins/bootstrap-notify.min.js",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\js\\plugins\\bootstrap-notify.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\plugins\\js\\plugins\\chart.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\plugins\\js\\plugins\\chart.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "plugins/js/plugins/chart.js",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\js\\plugins\\chart.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\plugins\\js\\plugins\\dataTables.bootstrap.min.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\plugins\\js\\plugins\\dataTables.bootstrap.min.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "plugins/js/plugins/dataTables.bootstrap.min.js",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\js\\plugins\\dataTables.bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\plugins\\js\\plugins\\dropzone.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\plugins\\js\\plugins\\dropzone.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "plugins/js/plugins/dropzone.js",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\js\\plugins\\dropzone.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\plugins\\js\\plugins\\fullcalendar.min.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\plugins\\js\\plugins\\fullcalendar.min.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "plugins/js/plugins/fullcalendar.min.js",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\js\\plugins\\fullcalendar.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\plugins\\js\\plugins\\jquery.dataTables.min.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\plugins\\js\\plugins\\jquery.dataTables.min.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "plugins/js/plugins/jquery.dataTables.min.js",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\js\\plugins\\jquery.dataTables.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\plugins\\js\\plugins\\jquery.vmap.min.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\plugins\\js\\plugins\\jquery.vmap.min.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "plugins/js/plugins/jquery.vmap.min.js",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\js\\plugins\\jquery.vmap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\plugins\\js\\plugins\\jquery.vmap.sampledata.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\plugins\\js\\plugins\\jquery.vmap.sampledata.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "plugins/js/plugins/jquery.vmap.sampledata.js",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\js\\plugins\\jquery.vmap.sampledata.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\plugins\\js\\plugins\\jquery.vmap.world.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\plugins\\js\\plugins\\jquery.vmap.world.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "plugins/js/plugins/jquery.vmap.world.js",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\js\\plugins\\jquery.vmap.world.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\plugins\\js\\plugins\\jquery-ui.custom.min.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\plugins\\js\\plugins\\jquery-ui.custom.min.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "plugins/js/plugins/jquery-ui.custom.min.js",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\js\\plugins\\jquery-ui.custom.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\plugins\\js\\plugins\\moment.min.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\plugins\\js\\plugins\\moment.min.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "plugins/js/plugins/moment.min.js",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\js\\plugins\\moment.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\plugins\\js\\plugins\\pace.min.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\plugins\\js\\plugins\\pace.min.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "plugins/js/plugins/pace.min.js",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\js\\plugins\\pace.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\plugins\\js\\plugins\\select2.min.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\plugins\\js\\plugins\\select2.min.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "plugins/js/plugins/select2.min.js",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\js\\plugins\\select2.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\plugins\\js\\plugins\\sweetalert.min.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\plugins\\js\\plugins\\sweetalert.min.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "plugins/js/plugins/sweetalert.min.js",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\js\\plugins\\sweetalert.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\plugins\\js\\popper.min.js",
+      "Identity": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\plugins\\js\\popper.min.js",
       "SourceId": "PresentacionWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\wwwroot\\",
       "BasePath": "_content/PresentacionWeb",
       "RelativePath": "plugins/js/popper.min.js",
       "AssetKind": "All",

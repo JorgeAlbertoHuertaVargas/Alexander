@@ -9,8 +9,6 @@ namespace Data.Interfaces
 {
     public  interface ICourse
     {
-       
-
         List<Course> GetCursosAll();
         Course ShowCurses(int idcurso);
         int RegistrarCurso(Course cursos);
@@ -20,6 +18,7 @@ namespace Data.Interfaces
 
         int UpdateCurso(Course cursos);
         int DeleteCurso(int Idcurso);
-        
+
+
     }
 }

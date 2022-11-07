@@ -161,6 +161,11 @@ namespace Data.Functions
         }
 
         //*****************************************************
-
+        private readonly DatabaseContext _context;
+        public CourseFuctions()
+        {
+            using var context = new DatabaseContext(DatabaseContext.ops.dbOptions);
+            _context = context;
+        }
     }
 }

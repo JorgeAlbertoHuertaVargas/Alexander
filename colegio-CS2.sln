@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "Data\Data.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PresentacionWeb", "PresentacionWeb\PresentacionWeb.csproj", "{747D6FB1-06D9-4612-A562-E718BCE2C9A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escritorio", "Escritorio\Escritorio.csproj", "{94EC3332-35E6-40A5-B2C1-936BDAED54FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Escritorio", "Escritorio\Escritorio.csproj", "{94EC3332-35E6-40A5-B2C1-936BDAED54FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{892AF96D-CFA0-448F-AF0D-D434875803E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{94EC3332-35E6-40A5-B2C1-936BDAED54FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94EC3332-35E6-40A5-B2C1-936BDAED54FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94EC3332-35E6-40A5-B2C1-936BDAED54FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{892AF96D-CFA0-448F-AF0D-D434875803E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892AF96D-CFA0-448F-AF0D-D434875803E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892AF96D-CFA0-448F-AF0D-D434875803E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892AF96D-CFA0-448F-AF0D-D434875803E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

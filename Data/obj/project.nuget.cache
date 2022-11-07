@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EoBpDOPPl2NhJWKT4bXMHkWT/pl5XiCIcKug7hPXUg/eCShmVu85jiDwrW2o+jUvaeibzRqw0LwgAkoN0BBhXQ==",
+  "dgSpecHash": "HiI2dsfu1p9p+GOeF+PpGR3fWMPTF8ga7VFdg64e3E60E8XLxW1BnNRFNT5pP880rRB4Ti0Q3qwtdy2i7qBkyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\Data\\Data.csproj",
+  "projectFilePath": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\Data\\Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alberto\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Alberto\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

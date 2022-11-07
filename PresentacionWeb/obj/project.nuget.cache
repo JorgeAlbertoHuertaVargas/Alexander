@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2oT9vAPZDCboEkxM72O/uQVzHmrnuBs7yMJxIa+napwoIPKIfsXA6kExUFFuuK1+JbKyERnfAfPDsWX9JwLGGw==",
+  "dgSpecHash": "aBq32EOFwIva4RZiOFz5szwkTMw5KvCgodJ7jPftexqgnRz9cxaN/M79n57RsBPz+VsgBq8dyMev3D4v7mMWvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alberto\\Source\\Repos\\Sistema Colegio\\PresentacionWeb\\PresentacionWeb.csproj",
+  "projectFilePath": "C:\\Users\\Alberto\\Source\\Repos\\Alexander\\PresentacionWeb\\PresentacionWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alberto\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Alberto\\.nuget\\packages\\azure.extensions.aspnetcore.configuration.secrets\\1.2.2\\azure.extensions.aspnetcore.configuration.secrets.1.2.2.nupkg.sha512",
